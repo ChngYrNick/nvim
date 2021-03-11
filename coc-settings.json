@@ -1,0 +1,15 @@
+{
+  "cSpellExt.enableDictionaries": ["russian"],
+	"cSpell.showStatus": true,
+  "cSpell.enabledLanguageIds": [
+    "markdown",
+    "plaintext",
+    "yml"
+  ],
+  "cSpell.language": "en,ru",
+  "prettier.printWidth": 120,
+  "prettier.trailingComma": "all",
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.singleQuote": true
+}
